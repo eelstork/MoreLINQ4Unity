@@ -1,0 +1,9 @@
+{
+  "name"        : "com.morelinq.morelinq",
+  "version"     : "0.0.0",
+  "displayName" : "MoreLINQ",
+  "description" : "Dev Resources",
+  "unity"       : "2019.4",
+  "keywords"    : [ "dev", "scripts", "linq"],
+  "author"      : { "name": "Jon Skeet" }
+}
